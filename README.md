@@ -10,7 +10,7 @@ I specialize in solving DSA problems, building AI/ML systems, and creating full-
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=nishrolex&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nishrolex?theme=dark&font=Karma&ext=heatmap)
 
 **Rank:** 247,404 (India)  
 **Problems Solved:** Python3: 380 | Python: 83 | MySQL: 14  
