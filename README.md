@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nishanth
 
-👋 Hi, I'm Nishanth (nishrolex)
+👋 Hi, I'm Nishanth 
 
 🎓 B.Tech AI/ML Student | Aspiring AI Engineer, Data Analyst & SDE  
 
