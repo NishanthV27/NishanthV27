@@ -1,10 +1,20 @@
 # Hi 👋 I'm Nishanth
 
-🎓 B.Tech AI/ML Student  
-💻 Aspiring Software Development Engineer (SDE)  
-📊 Data Analytics & AI Enthusiast  
+👋 Hi, I'm Nishanth (nishrolex)
 
-I specialize in solving DSA problems, building AI/ML systems, and creating full-stack applications.
+🎓 B.Tech AI/ML Student | Aspiring AI Engineer, Data Analyst & SDE  
+
+I am a passionate and driven engineering student with strong interest in Artificial Intelligence, Data Analytics, and Software Development. I specialize in building intelligent systems, analyzing real-world data, and solving complex algorithmic problems using efficient DSA techniques.
+
+💡 As an AI Engineer, I focus on Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, and Agentic AI to develop smart and scalable solutions.
+
+📊 As a Data Analyst, I enjoy working with data using Pandas, NumPy, SQL, and visualization techniques to extract meaningful insights and support decision-making.
+
+💻 As a Software Development Engineer (SDE), I build full-stack applications using Python, Flask, Django, HTML, CSS, and JavaScript with clean architecture and optimized performance.
+
+🧠 I am highly passionate about Data Structures & Algorithms, actively practicing on LeetCode to strengthen problem-solving, logical thinking, and coding efficiency.
+
+🚀 My goal is to become a highly skilled AI Engineer and SDE who contributes to impactful real-world AI-driven products.
 
 ---
 
